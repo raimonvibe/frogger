@@ -1,4 +1,7 @@
 # Frogger Game
+
+![Frogger Game Demo](frogger-demo.gif)
+
 This repository contains code for a Frogger game implemented using the Turtle module in Python. The game is inspired by the classic Frogger arcade game, where the player controls a frog trying to cross a busy road without colliding with cars.
 
 # Table of Contents
